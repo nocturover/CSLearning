@@ -1,0 +1,16 @@
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\02_ReturnTask\obj\Debug\net5.0\02_ReturnTask.csproj.AssemblyReference.cache
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\02_ReturnTask\obj\Debug\net5.0\02_ReturnTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\02_ReturnTask\obj\Debug\net5.0\02_ReturnTask.AssemblyInfoInputs.cache
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\02_ReturnTask\obj\Debug\net5.0\02_ReturnTask.AssemblyInfo.cs
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\02_ReturnTask\obj\Debug\net5.0\02_ReturnTask.csproj.CoreCompileInputs.cache
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\02_ReturnTask\bin\Debug\net5.0\02_ReturnTask.exe
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\02_ReturnTask\bin\Debug\net5.0\02_ReturnTask.deps.json
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\02_ReturnTask\bin\Debug\net5.0\02_ReturnTask.runtimeconfig.json
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\02_ReturnTask\bin\Debug\net5.0\02_ReturnTask.runtimeconfig.dev.json
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\02_ReturnTask\bin\Debug\net5.0\02_ReturnTask.dll
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\02_ReturnTask\bin\Debug\net5.0\ref\02_ReturnTask.dll
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\02_ReturnTask\bin\Debug\net5.0\02_ReturnTask.pdb
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\02_ReturnTask\obj\Debug\net5.0\02_ReturnTask.dll
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\02_ReturnTask\obj\Debug\net5.0\ref\02_ReturnTask.dll
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\02_ReturnTask\obj\Debug\net5.0\02_ReturnTask.pdb
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\02_ReturnTask\obj\Debug\net5.0\02_ReturnTask.genruntimeconfig.cache

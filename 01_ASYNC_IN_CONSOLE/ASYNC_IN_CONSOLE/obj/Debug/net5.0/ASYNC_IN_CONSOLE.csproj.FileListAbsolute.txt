@@ -1,0 +1,16 @@
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\ASYNC_IN_CONSOLE\bin\Debug\net5.0\ASYNC_IN_CONSOLE.exe
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\ASYNC_IN_CONSOLE\bin\Debug\net5.0\ASYNC_IN_CONSOLE.deps.json
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\ASYNC_IN_CONSOLE\bin\Debug\net5.0\ASYNC_IN_CONSOLE.runtimeconfig.json
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\ASYNC_IN_CONSOLE\bin\Debug\net5.0\ASYNC_IN_CONSOLE.runtimeconfig.dev.json
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\ASYNC_IN_CONSOLE\bin\Debug\net5.0\ASYNC_IN_CONSOLE.dll
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\ASYNC_IN_CONSOLE\bin\Debug\net5.0\ref\ASYNC_IN_CONSOLE.dll
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\ASYNC_IN_CONSOLE\bin\Debug\net5.0\ASYNC_IN_CONSOLE.pdb
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\ASYNC_IN_CONSOLE\obj\Debug\net5.0\ASYNC_IN_CONSOLE.csproj.AssemblyReference.cache
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\ASYNC_IN_CONSOLE\obj\Debug\net5.0\ASYNC_IN_CONSOLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\ASYNC_IN_CONSOLE\obj\Debug\net5.0\ASYNC_IN_CONSOLE.AssemblyInfoInputs.cache
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\ASYNC_IN_CONSOLE\obj\Debug\net5.0\ASYNC_IN_CONSOLE.AssemblyInfo.cs
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\ASYNC_IN_CONSOLE\obj\Debug\net5.0\ASYNC_IN_CONSOLE.csproj.CoreCompileInputs.cache
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\ASYNC_IN_CONSOLE\obj\Debug\net5.0\ASYNC_IN_CONSOLE.dll
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\ASYNC_IN_CONSOLE\obj\Debug\net5.0\ref\ASYNC_IN_CONSOLE.dll
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\ASYNC_IN_CONSOLE\obj\Debug\net5.0\ASYNC_IN_CONSOLE.pdb
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\ASYNC_IN_CONSOLE\obj\Debug\net5.0\ASYNC_IN_CONSOLE.genruntimeconfig.cache

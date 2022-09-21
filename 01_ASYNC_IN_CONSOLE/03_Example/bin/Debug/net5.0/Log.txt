@@ -1,0 +1,6 @@
+Thread : [1] method : <Main>d__0 *main
+Thread : [1] method : <Main>d__0 *main
+Thread : [4] method : <LoadPriceDataAsync>d__2
+Thread : [4] method : <UpdateToTable>d__1
+Prices : O,H,L,C - 2000, 4000, 1000, 3000
+Done to update

@@ -1,0 +1,15 @@
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\04_Task_ContinueWith\obj\Debug\net5.0\04_Task_ContinueWith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\04_Task_ContinueWith\obj\Debug\net5.0\04_Task_ContinueWith.AssemblyInfoInputs.cache
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\04_Task_ContinueWith\obj\Debug\net5.0\04_Task_ContinueWith.AssemblyInfo.cs
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\04_Task_ContinueWith\obj\Debug\net5.0\04_Task_ContinueWith.csproj.CoreCompileInputs.cache
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\04_Task_ContinueWith\bin\Debug\net5.0\04_Task_ContinueWith.exe
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\04_Task_ContinueWith\bin\Debug\net5.0\04_Task_ContinueWith.deps.json
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\04_Task_ContinueWith\bin\Debug\net5.0\04_Task_ContinueWith.runtimeconfig.json
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\04_Task_ContinueWith\bin\Debug\net5.0\04_Task_ContinueWith.runtimeconfig.dev.json
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\04_Task_ContinueWith\bin\Debug\net5.0\04_Task_ContinueWith.dll
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\04_Task_ContinueWith\bin\Debug\net5.0\ref\04_Task_ContinueWith.dll
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\04_Task_ContinueWith\bin\Debug\net5.0\04_Task_ContinueWith.pdb
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\04_Task_ContinueWith\obj\Debug\net5.0\04_Task_ContinueWith.dll
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\04_Task_ContinueWith\obj\Debug\net5.0\ref\04_Task_ContinueWith.dll
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\04_Task_ContinueWith\obj\Debug\net5.0\04_Task_ContinueWith.pdb
+C:\Nocturover\Learning\Csharp\ASYNC_IN_CONSOLE\04_Task_ContinueWith\obj\Debug\net5.0\04_Task_ContinueWith.genruntimeconfig.cache

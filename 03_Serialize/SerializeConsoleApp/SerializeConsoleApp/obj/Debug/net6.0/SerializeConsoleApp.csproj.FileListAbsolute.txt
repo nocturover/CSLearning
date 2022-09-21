@@ -1,0 +1,15 @@
+C:\Nocturover\Learning\Cpp\03_Serialize\SerializeConsoleApp\SerializeConsoleApp\obj\Debug\net6.0\SerializeConsoleApp.csproj.AssemblyReference.cache
+C:\Nocturover\Learning\Cpp\03_Serialize\SerializeConsoleApp\SerializeConsoleApp\obj\Debug\net6.0\SerializeConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nocturover\Learning\Cpp\03_Serialize\SerializeConsoleApp\SerializeConsoleApp\obj\Debug\net6.0\SerializeConsoleApp.AssemblyInfoInputs.cache
+C:\Nocturover\Learning\Cpp\03_Serialize\SerializeConsoleApp\SerializeConsoleApp\obj\Debug\net6.0\SerializeConsoleApp.AssemblyInfo.cs
+C:\Nocturover\Learning\Cpp\03_Serialize\SerializeConsoleApp\SerializeConsoleApp\obj\Debug\net6.0\SerializeConsoleApp.csproj.CoreCompileInputs.cache
+C:\Nocturover\Learning\Cpp\03_Serialize\SerializeConsoleApp\SerializeConsoleApp\bin\Debug\net6.0\SerializeConsoleApp.exe
+C:\Nocturover\Learning\Cpp\03_Serialize\SerializeConsoleApp\SerializeConsoleApp\bin\Debug\net6.0\SerializeConsoleApp.deps.json
+C:\Nocturover\Learning\Cpp\03_Serialize\SerializeConsoleApp\SerializeConsoleApp\bin\Debug\net6.0\SerializeConsoleApp.runtimeconfig.json
+C:\Nocturover\Learning\Cpp\03_Serialize\SerializeConsoleApp\SerializeConsoleApp\bin\Debug\net6.0\SerializeConsoleApp.dll
+C:\Nocturover\Learning\Cpp\03_Serialize\SerializeConsoleApp\SerializeConsoleApp\bin\Debug\net6.0\SerializeConsoleApp.pdb
+C:\Nocturover\Learning\Cpp\03_Serialize\SerializeConsoleApp\SerializeConsoleApp\obj\Debug\net6.0\SerializeConsoleApp.dll
+C:\Nocturover\Learning\Cpp\03_Serialize\SerializeConsoleApp\SerializeConsoleApp\obj\Debug\net6.0\refint\SerializeConsoleApp.dll
+C:\Nocturover\Learning\Cpp\03_Serialize\SerializeConsoleApp\SerializeConsoleApp\obj\Debug\net6.0\SerializeConsoleApp.pdb
+C:\Nocturover\Learning\Cpp\03_Serialize\SerializeConsoleApp\SerializeConsoleApp\obj\Debug\net6.0\SerializeConsoleApp.genruntimeconfig.cache
+C:\Nocturover\Learning\Cpp\03_Serialize\SerializeConsoleApp\SerializeConsoleApp\obj\Debug\net6.0\ref\SerializeConsoleApp.dll

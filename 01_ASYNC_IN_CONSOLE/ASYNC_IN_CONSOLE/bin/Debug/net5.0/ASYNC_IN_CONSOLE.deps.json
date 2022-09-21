@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ASYNC_IN_CONSOLE/1.0.0": {
+        "runtime": {
+          "ASYNC_IN_CONSOLE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ASYNC_IN_CONSOLE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

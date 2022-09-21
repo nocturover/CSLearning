@@ -1,0 +1,7 @@
+C:\Nocturover\Learning\Cpp\02_IOCP\REVIEW_IOCP_MODULES\REVIEW_IOCP_MODULES\obj\Debug\net6.0-windows\REVIEW_IOCP_MODULES.csproj.AssemblyReference.cache
+C:\Nocturover\Learning\Cpp\02_IOCP\REVIEW_IOCP_MODULES\REVIEW_IOCP_MODULES\obj\Debug\net6.0-windows\REVIEW_IOCP_MODULES.ServerForm.resources
+C:\Nocturover\Learning\Cpp\02_IOCP\REVIEW_IOCP_MODULES\REVIEW_IOCP_MODULES\obj\Debug\net6.0-windows\REVIEW_IOCP_MODULES.csproj.GenerateResource.cache
+C:\Nocturover\Learning\Cpp\02_IOCP\REVIEW_IOCP_MODULES\REVIEW_IOCP_MODULES\obj\Debug\net6.0-windows\REVIEW_IOCP_MODULES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nocturover\Learning\Cpp\02_IOCP\REVIEW_IOCP_MODULES\REVIEW_IOCP_MODULES\obj\Debug\net6.0-windows\REVIEW_IOCP_MODULES.AssemblyInfoInputs.cache
+C:\Nocturover\Learning\Cpp\02_IOCP\REVIEW_IOCP_MODULES\REVIEW_IOCP_MODULES\obj\Debug\net6.0-windows\REVIEW_IOCP_MODULES.AssemblyInfo.cs
+C:\Nocturover\Learning\Cpp\02_IOCP\REVIEW_IOCP_MODULES\REVIEW_IOCP_MODULES\obj\Debug\net6.0-windows\REVIEW_IOCP_MODULES.csproj.CoreCompileInputs.cache
